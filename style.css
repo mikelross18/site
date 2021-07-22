@@ -16,7 +16,7 @@
 
 nav{
     
-    display: flex;
+    display: none;
     
     padding: 2% 6%;
     justify-content: space-between;
