@@ -109,7 +109,7 @@ nav .fa{
         display: block;
     }
     .nav-links{
-        display: none;
+        
         position:absolute;
         background: #676c72;
         height: 100vh;
