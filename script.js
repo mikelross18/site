@@ -2,8 +2,8 @@ var navLinks = document.getElementById("navLinks");
 
 function showMenu()
 {
-    navLinks.style.right = "0";
-    vissible: 0;
+    navLinks.style.right = "100";
+    vissible: hidden;
 }
 function hideMenu()
 {
