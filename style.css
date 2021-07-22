@@ -110,7 +110,7 @@ nav .fa{
     }
     .nav-links{
         
-        position:inherit;
+        position:relative;
         background: #676c72;
         height: 100vh;
         width: 200px;
