@@ -16,7 +16,7 @@
 
 nav{
     
-    display: none;
+    display: flex;
     
     padding: 2% 6%;
     justify-content: space-between;
@@ -101,6 +101,10 @@ nav .fa{
 }
 
 @media(max-width: 700px){
+    .nav{
+     display: none;
+     position: absolute;
+    }
     .text-box h1{
         font-size: 20px;
     }
