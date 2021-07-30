@@ -109,11 +109,11 @@ nav .fa{
         display: block;
     }
     .nav-links{
+        position: absolute;
         background: #676c72;
         height: 100vh;
         width: 200px;
         top: 0;
-        left: -200px;
         text-align: left;
         z-index: 2;
         transition: 1s;
